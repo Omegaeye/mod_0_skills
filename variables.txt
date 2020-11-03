@@ -10,7 +10,7 @@ num7 = 20
 
 quotient = (num7/num2)
 p quotient
-p "quotient = #(num7/num2)"
+p "quotient = #{num7/num2}"
 
 songs = ["Middle Child", "Godzilla", "Somebody to Love"]
 
